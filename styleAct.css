@@ -1,0 +1,41 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(7, 75, 153);
+    margin: 5px;
+    padding: 5px;
+}
+
+#encabezado{
+    background-color: rgb(247, 0, 0);
+    text-align: center;
+    color: black;
+}
+
+.seccion{
+    background-color: lightgrey;
+    width: 475px;
+    border: 5px solid rgb(194, 123, 123);
+    padding: 20px;
+    margin: 50px auto;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#img{
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+#otros{
+    background-color: lightgrey;
+    border: 5px;
+    padding: 10px;
+}
