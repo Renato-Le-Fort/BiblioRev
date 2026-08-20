@@ -30,11 +30,10 @@ p{
 
 .nav ul{
     list-style-type: none;
-    display: flex;
     justify-content: center;
 }
 
-#otros{
+#informacion{
     background-color: lightgrey;
     border: 5px;
     padding: 10px;
